@@ -10,7 +10,7 @@ logic.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7ac06e8-f4f6-4295-9d8b-8966f173f9be" />
 
 # dowload the game:
-u cant play this game by just clicking the website page link and enjoy the beautiful game.
+u can play this game by just clicking the website page link and enjoy the beautiful game.
 
 # controls:
 arrowUp to go up
