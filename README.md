@@ -3,7 +3,7 @@ A simple pacman game made using html css and js. the game is insired by the clas
 to avoid ghosts.
 
 # description:
-thsi project was created to pratice js and learn how the game work.the game use  html to create the basic structure css to style the page and js to control the game
+this project was created to pratice js and learn how the game work.the game use  html to create the basic structure css to style the page and js to control the game
 logic.
 
 # ss of the game:
@@ -24,7 +24,10 @@ logic.
 1. hmtl 5 support browser.
 2. css support and js support browser.
    
-
+# technology used:
+1. html
+2. css
+3. js
    
 
 
@@ -45,7 +48,7 @@ game. u have 3 lives and score option if u live get 0 game over and using the ar
 https://siddhant08-lol.github.io/pacman-game/
 
 
- # made by siddhant !
+ # this project is  licence under  siddhant!
 
 
 
