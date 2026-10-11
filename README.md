@@ -9,8 +9,25 @@ logic.
 # ss of the game:
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7ac06e8-f4f6-4295-9d8b-8966f173f9be" />
 
-# dowload the game:
-u can play this game by just clicking the website page link and enjoy the beautiful game.
+# dependencies:
+1. no additional dependices are required
+2. html css and js are supported by normal browswer
+3. no package needed to install
+
+# excuting the progarm:
+1. dowlnaod the project repository
+2. open the file in the vs code (extract the file if needed)
+3. use live server to view the game and enjoy
+
+ # requirement:
+
+1. hmtl 5 support browser.
+2. css support and js support browser.
+   
+
+   
+
+
 
 # controls:
 arrowUp to go up
@@ -28,7 +45,7 @@ game. u have 3 lives and score option if u live get 0 game over and using the ar
 https://siddhant08-lol.github.io/pacman-game/
 
 
-madey by siddhant
+ # made by siddhant !
 
 
 
