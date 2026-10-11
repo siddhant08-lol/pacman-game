@@ -28,5 +28,7 @@ game. u have 3 lives and score option if u live get 0 game over and using the ar
 https://siddhant08-lol.github.io/pacman-game/
 
 
+madey by siddhant
+
 
 
