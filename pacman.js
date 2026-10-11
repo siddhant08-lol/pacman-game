@@ -208,6 +208,7 @@ else {
 
 
     function move() {
+   
     pacman.x += pacman.velocityX;
     pacman.y += pacman.velocityY;
 
@@ -217,6 +218,13 @@ else {
             pacman.y -= pacman.velocityY;
             break;
         }
+    }
+
+    
+    if (pacman.x < 0) {
+        pacman.x = boardWidth - tileSize;
+    } else if (pacman.x >= boardWidth) {
+        pacman.x = 0;
     }
 
     for (let ghost of ghosts.values()) {
@@ -268,6 +276,7 @@ else {
 
     foods.delete(foodEaten);
 }
+
 
 
 function movePacman(e){
